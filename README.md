@@ -4,6 +4,7 @@ Projeto desenvolvido para a Semana do Industrial 2025, como o tema principal era
  https://github.com/Bruno00711 - Bruno Eiji Assakura Matsu/
  https://github.com/torrescarneiroraul-png - Raul Torres Carneiro de Lima/
  https://github.com/cad-u - Carlos Eduardo Amaral Maranhão/
+ https://github.com/FelipeRodriguesBatista - Felipe Rodrigues Batista/
 
 
  ### 📖 Descrição do Projeto Aqui
