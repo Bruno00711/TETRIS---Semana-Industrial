@@ -243,7 +243,8 @@ void loop() {
 2. Linguagem: C++
 3. Software PC: Arduino IDE
 4. Bibliotecas: LedControl.h
-5. Diagrama: ![Diagrama Tetris](https://github.com/user-attachments/assets/7967926b-0e15-464e-877b-40d3f8927fbd)
+5. Diagrama:
+   ![Diagrama Tetris](https://github.com/user-attachments/assets/7967926b-0e15-464e-877b-40d3f8927fbd)
 
   
   ### ⚙️Instalação e Montagem Passo a passo de como alguém pode replicar o projeto de vocês.
