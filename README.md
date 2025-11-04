@@ -2,7 +2,7 @@
 Projeto desenvolvido para a Semana do Industrial 2025, como o tema principal era "Jogos Eletrônicos utilizando o Arduino" decidimos recriar o clássico jogo Tetris. Um jogo de quebra-cabeça em que os jogadores devem organizar os blocos em queda.  O objetivo é criar linhas horizontais completas com os blocos, que então desaparecem, permitindo que mais blocos caiam.
  ### 👥 Equipe (Colaboradores)
  https://github.com/Bruno00711 - Bruno Eiji Assakura Matsu/
- https://github.com/torrescarneiroraul-png - Raul Torres/
+ https://github.com/torrescarneiroraul-png - Raul Torres Carneiro de Lima/
  https://github.com/cad-u - Carlos Eduardo Amaral Maranhão/
 
 
