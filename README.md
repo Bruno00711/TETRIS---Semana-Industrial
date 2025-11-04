@@ -1,13 +1,13 @@
 # 🤖Tetris
 Projeto desenvolvido para a Semana do Industrial 2025, como o tema principal era "Jogos Eletrônicos utilizando o Arduino" decidimos recriar o clássico jogo Tetris. Um jogo de quebra-cabeça em que os jogadores devem organizar os blocos em queda.  O objetivo é criar linhas horizontais completas com os blocos, que então desaparecem, permitindo que mais blocos caiam.
  ### 👥 Equipe (Colaboradores)
- https://github.com/Bruno00711 - Bruno Eiji Assakura Matsu
- https://github.com/torrescarneiroraul-png - Raul Torres
- https://github.com/cad-u - Carlos Eduardo Amaral Maranhão
+ https://github.com/Bruno00711 - Bruno Eiji Assakura Matsu/
+ https://github.com/torrescarneiroraul-png - Raul Torres/
+ https://github.com/cad-u - Carlos Eduardo Amaral Maranhão/
 
 
  ### 📖 Descrição do Projeto Aqui
- O Desafio da Semana do Industrial 2025, tema geral do primeiro ano de mecatrônica, era a criação de um jogo eletrônico utilizando o Arduino. Sabedno disso decidimos recriar o Tetris.
+ O Desafio da Semana do Industrial 2025, tema geral do primeiro ano de mecatrônica, era a criação de um jogo eletrônico utilizando o Arduino. Sabendo disso decidimos recriar o Tetris.
  O nosso projeto funciona, principalmente, através do Arduino e o seu código programado em linguagem C++. Ele segue a mesma lógica do Tetris tradicional, mas adaptado para uma matriz de led 8x32.
 
 
@@ -231,7 +231,6 @@ void loop() {
       pieceY++;
     } else {
       fixPiece();
-
       clearFullLines();
       newPiece();
     }
@@ -240,16 +239,18 @@ void loop() {
   }
 }
 
+
 2. Linguagem: C++
 3. Software PC: Arduino IDE
 4. Bibliotecas: LedControl.h
 5. Diagrama:
-   ![Diagrama Tetris](https://github.com/user-attachments/assets/7967926b-0e15-464e-877b-40d3f8927fbd)
+
+    ![Diagrama Tetris](https://github.com/user-attachments/assets/7967926b-0e15-464e-877b-40d3f8927fbd)
 
   
   ### ⚙️Instalação e Montagem Passo a passo de como alguém pode replicar o projeto de vocês.
 1. Montagem: Conexão da matriz de led MAX7219: GND ligado ao GND do Arduino; DIN ligado a porta digital 6; CLK ligado a porta digital 5; CS ligado ao 3 e; VCC ligado ao 5V.
-     Conexão dos botões push s/trava: todos devem estar conectados ao GND; Botão 1 (move para esquerda) conectado na porta 7; Botão 2 (move para direita) conectado na porta 8 e; Botão 3 (gira a peça) conectado na porta 2.
+     /Conexão dos botões push s/trava: todos devem estar conectados ao GND; Botão 1 (move para esquerda) conectado na porta 7; Botão 2 (move para direita) conectado na porta 8 e; Botão 3 (gira a peça) conectado na porta 2.
 2. Bibliotecas: LedControl.h
 3. Upload Do Código:
 #include <LedControl.h>
