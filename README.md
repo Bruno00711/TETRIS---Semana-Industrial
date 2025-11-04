@@ -474,6 +474,7 @@ void loop() {
 
 
 
+
  ### ▶️ Como Usar Depois de montado e programado, como o projeto funciona?
  1. Ligue a fonte de alimentação
  2. O jogo inicia automaticamente com uma peça caindo.
@@ -485,3 +486,5 @@ Quando uma peça atinge o fundo, ela se fixa e surge uma nova.
 
 
 ### 🎥 Vídeo/GIF do Projeto em Ação:
+
+https://github.com/user-attachments/assets/0ab5b232-1b32-433e-b47f-18b4ba3a787f
